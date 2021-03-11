@@ -19,8 +19,8 @@
 
 GLOSARIO
 novedad retroactiva: afiliaciones o retiros que no se hicieron a tiempo por parte del operador. (periodos que no se han cobrado)
-N01,Actualización o corrección del tipo y número de identificación del afiliado y/o fecha de nacimiento. ORDEN 1,2,7,33
-N02,
+N01, Actualización o corrección del tipo y número de identificación del afiliado y/o fecha de nacimiento. ORDEN 1,2,7,33
+N02, Actualización o corrección de nombres del afiliado. 
 N03,
 N04,
 N09,
